@@ -5,10 +5,11 @@ The proxy IP addresses come from [freeproxylists](http://www.freeproxylists.net/
 
 I revised the project of [kapythone](https://github.com/kapythone/ProxyFactory) to make it work for Python 2.7 and people in US.
 
-# Rely
+# Based on
 * Python 2.7
 * PhantomJS
 * Selenium
+* Requests
 
 # How to use
 Example:
