@@ -12,6 +12,9 @@ I revised the project of [kapythone](https://github.com/kapythone/ProxyFactory) 
 * Requests
 
 # How to use
+
+After installing **PhantomJS**, change the **PhantomJS_Dir** to your own directory in the **proxy_pool.py** file.
+
 Example:
 
 ```python
