@@ -7,9 +7,9 @@ I revised the project of [kapythone](https://github.com/kapythone/ProxyFactory) 
 
 # Based on
 * Python 2.7
-* PhantomJS
-* Selenium
-* Requests
+* [PhantomJS](http://phantomjs.org/)
+* [Selenium](http://selenium-python.readthedocs.io/)
+* [Requests](http://docs.python-requests.org/en/master/)
 
 # How to use
 
